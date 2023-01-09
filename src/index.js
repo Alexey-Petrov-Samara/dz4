@@ -17,11 +17,3 @@ root.render(
     </PersistGate>
   </Provider>
 );
-
-// root.render(
-//     <AppAnt/>
-// );
-
-// root.render(
-//     <AppMUI/>
-// );
